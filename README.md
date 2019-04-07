@@ -1,3 +1,11 @@
+# Table of Contents
+
+-   detect_video.ipynb: detect videos from your own source
+-   evaluate_result.ipynb: evaluate performance of various detection models
+-   faster_rcnn.ipynb: use the Faster R-CNN model for detection
+-   ssd.ipynb: use the SSH model for detection
+-   training.ipynb: train the YOLOv3 model using custom dataset, annotation file and anchor file
+
 # Environment Setup
 
 ## Install Anaconda with Python 3.7
