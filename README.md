@@ -36,3 +36,5 @@ jupyter notebook
 2. Change the `video_path` argument in the second cell to the path of your own input video
 3. Change the `output_path` argument in the second cell to the desired output path
 4. Run all cells
+
+# See report.pdf for result analysis
